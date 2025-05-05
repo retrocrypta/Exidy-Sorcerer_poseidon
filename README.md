@@ -1,2 +1,2 @@
 # Exidy-Sorcerer_poseidon
-Exidy Sorcerer ported from MiST
+Exidy Sorcerer ported from MiST by Turri & ron
